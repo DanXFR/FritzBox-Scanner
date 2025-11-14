@@ -37,3 +37,21 @@ bash
 
 ./fritzbox-scanner fritz.box
 
+# Current Features
+Connectivity Checks - Verifies device is reachable
+HTTPS/SSL Testing - Checks if encrypted access is available
+Default Credentials - Tests for weak authentication
+Port Scanning - Identifies open ports and insecure protocols (FTP, Telnet)
+UPnP Detection - Checks for UPnP exposure
+Firmware Information - Attempts to detect version info
+Remote Access Check - Reminds you to verify remote access settings
+WPS (WiFi Protected Setup) - Checks for WPS vulnerability to brute-force attacks
+DNS Rebinding Protection - Tests if the device is protected against DNS rebinding attacks
+TR-064 Protocol Exposure - Scans for exposed TR-064 ports (49000, 49443) which should not be internet-facing
+MyFRITZ! Service - Reminds to secure remote access with strong passwords and 2FA
+WiFi Encryption - Verifies proper encryption standards (WPA3/WPA2-AES)
+Guest Network Configuration - Checks guest network isolation settings
+IPv6 Firewall - Detects IPv6 and warns about proper firewall configuration
+SIP/VoIP Security - Scans port 5060 and warns about SIP account password strength
+USB Storage Security - Checks SMB and FTP file sharing for USB devices
+Automatic Updates - Reminds to enable automatic firmware updates
