@@ -28,9 +28,9 @@ GOOS=darwin GOARCH=amd64 go build -o fritzbox-scanner-mac
 
 The script uses 192.168.178.1 as a default IP
 
-bash
 # Uses 192.168.178.1 (standard FritzBox IP) by default
-./fritzbox-scanner
+./fritzbox-scanner (Linux) 
+fritzbox-scanner.exe (Windows)
 
 # Or specify a different IP/hostname
 ./fritzbox-scanner 192.168.178.254
