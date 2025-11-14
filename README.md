@@ -43,7 +43,7 @@ HTTPS/SSL Testing - Checks if encrypted access is available
 Default Credentials - Tests for weak authentication
 Port Scanning - Identifies open ports and insecure protocols (FTP, Telnet)
 UPnP Detection - Checks for UPnP exposure
-Firmware Information - Attempts to detect version info
+Firmware Information - Attempts to detect version infp
 Remote Access Check - Reminds you to verify remote access settings
 WPS (WiFi Protected Setup) - Checks for WPS vulnerability to brute-force attacks
 DNS Rebinding Protection - Tests if the device is protected against DNS rebinding attacks
