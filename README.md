@@ -33,5 +33,6 @@ bash# Uses 192.168.178.1 by default
 
 # Or specify a different IP/hostname
 ./fritzbox-scanner 192.168.178.254
+
 ./fritzbox-scanner fritz.box
 
