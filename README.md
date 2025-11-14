@@ -30,6 +30,7 @@ The script uses 192.168.178.1 as a default IP
 
 # Uses 192.168.178.1 (standard FritzBox IP) by default
 ./fritzbox-scanner (Linux) 
+
 fritzbox-scanner.exe (Windows)
 
 # Or specify a different IP/hostname
